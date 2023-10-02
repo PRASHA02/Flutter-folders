@@ -1,0 +1,11 @@
+.avatar{
+    height: 260px;
+    width: 260px;
+    border-radius: 50%;
+    border-left: 630px solid transparent;
+    border-right: 630px solid transparent;
+}
+h2{
+    color: rgb(27, 239, 239);  
+
+}
